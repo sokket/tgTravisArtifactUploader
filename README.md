@@ -1,4 +1,4 @@
-# Upload Trevis Artifacts to Telegram
+# Upload Travis Artifacts to Telegram
 
 #### 1) Define some ENV variables
 ```
