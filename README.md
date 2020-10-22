@@ -8,5 +8,6 @@ TG_BOT_USERS=<target chat ids separated with commas>
 
 #### 2) Use in your CI pipeline
 ```
-./tcn <file to upload>
+curl https://github.com/sokket/tgTrevisArtifactUploader/releases/download/1.0/tcn > ./tcn
+chmod +x ./tcn && ./tcn <file to upload>
 ```
